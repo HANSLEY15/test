@@ -32,3 +32,5 @@ ___
 |Hansley| hans@gmai.com|
 |clinton|clinton@gmai.com|
 this is confusing..
+
+am adding a ~~strike throught again~~
